@@ -1,0 +1,14 @@
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\bin\Debug\net10.0\Biblioteca.exe
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\bin\Debug\net10.0\Biblioteca.deps.json
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\bin\Debug\net10.0\Biblioteca.runtimeconfig.json
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\bin\Debug\net10.0\Biblioteca.dll
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\bin\Debug\net10.0\Biblioteca.pdb
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\Biblioteca.AssemblyInfo.cs
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\Biblioteca.dll
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\refint\Biblioteca.dll
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\Biblioteca.pdb
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\Biblioteca.genruntimeconfig.cache
+C:\Users\EMarchena\Downloads\inventario-app-releases-modulo-3\Biblioteca\obj\Debug\net10.0\ref\Biblioteca.dll
